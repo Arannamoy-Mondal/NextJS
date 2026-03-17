@@ -32,3 +32,7 @@ touch page.tsx
 
 localhost:3000/route
 
+
+# Route group
+
+- use () for define route
