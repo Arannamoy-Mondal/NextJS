@@ -2,10 +2,10 @@ import React from 'react';
 
 const AboutPage = () => {
     return (
-        <div>
-            About Page
+        <div className='text-4xl'>
+            About
         </div>
     );
 };
 
-export default AboutPage
+export default AboutPage;
